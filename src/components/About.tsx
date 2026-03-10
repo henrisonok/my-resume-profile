@@ -6,7 +6,7 @@ function About () {
        
 
         <p className="text-gray-600 leading-relaxed">
-            I'm an IT professional with experience in software development, cloud computing, and data analysis. I have the skills working across the full development lifecycle from requirement gathering and system design to implementation, testing, and deployment. I am comfortable building Web applications, Backend systems (RESTful APIs), Database design and Version control & collaboration using Git-based workflows in team.
+            Experienced Software Developer and IT professional with a strong background in building,integrating, and supporting enterprise technology solutions across software, hardware, and networkenvironments. Skilled in developing and maintaining web-based applications, troubleshootingcomplex technical issues, and deploying scalable IT solutions that improve operational efficiency. Hands-on experience working with modern development tools, scripting, and system integrationsalongside enterprise infrastructure including Active Directory, end-user environments, networkdevices, and virtualization platforms. Knowledgeable in cybersecurity best practices and securityoperations, implementing solutions aligned with NIST frameworks and organizational compliancestandards. Recognized for bridging software development and IT operations to deliver secure,reliable, and user-focused technology solutions.
         </p>
     </section>
     );
