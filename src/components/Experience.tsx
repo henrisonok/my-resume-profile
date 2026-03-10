@@ -14,6 +14,19 @@ const Experience = () => {
       ],
     },
     {
+        role: "Veteran: Field Technician Specialist",
+        company: "United States Army - National Guard",
+        location: "Houston, Texas, United States",
+        duration: "2017 – 2026",
+        responsibilities: [
+            "Managed IT artillery gunnary softwares and data accuracy by ensuring quarterly updates and annual maintainance.",
+            "Performed technical diagnostics and troubleshooting for hardware and software issues for Howitzer M777 Artillery Machine Guns.",
+            "Maintained documentation of service management processes and Army procedures.",
+            "Cordinated function testing and ensuring weapons meet safety standards and operational readiness.",
+            "Inspected and repaired small arms (rifles, pistols, machine guns) and artillery systems to ensure optimal performance and safety.",
+        ],
+    },
+    {
       role: "Software Engineer",
       company: "Teep Africa",
       location: "Canada (Remote)",
@@ -34,7 +47,7 @@ const Experience = () => {
       responsibilities: [
         "Design, implement, and maintain high‑performance C++ back‑end services that ingest, process, and deliver large volumes of imagery data.",
         "Supported cloud environments including AWS infrastructure and services, and containerization technologies like Docker and Kubernetes.",
-        "troubleshoot performance bottlenecks to uphold code quality, security standards, and continuous‑integration/continuous‑deployment (CI/CD) practices.",
+        "Troubleshoot performance bottlenecks to uphold code quality, security standards, and continuous‑integration/continuous‑deployment (CI/CD) practices.",
         "Ensured robust API design, low latency, and scalability across multi‑core and GPU‑accelerated environments.",
         "Wrote and optimized RQL queries to detect misconfigurations,excessive permissions, and security threats"
       ],
