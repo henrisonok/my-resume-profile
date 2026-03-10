@@ -7,7 +7,7 @@ const Projects = () => {
       description:
         "Personal resume website highlighting education, certifications, and professional experience.",
       tech: ["React", "Tailwind", "JavaScript"],
-      link: "#",
+      link: "https://vercel.com/henrison-okechukwus-projects/my-resume-profile",
     },
     {
         title: "My AI Webpage",
